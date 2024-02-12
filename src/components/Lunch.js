@@ -4,7 +4,7 @@ function Lunch() {
       <label for="lunch">Lunch</label>
       <select id="lunch" name="lunch">
         <option value="lunch" selected>
-          lunch
+          Lunch
         </option>
         <option value="cheese">Cheese</option>
         <option value="egg">Egg</option>
