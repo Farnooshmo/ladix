@@ -1,15 +1,9 @@
+import Breakfast from "./Breakfast";
+
 function DietForm() {
   return (
     <div>
-      <label for="breakfast">Breakfast</label>
-      <select id="breakfast" name="breakfast">
-        <option value="breakfast" selected>
-          Breakfast
-        </option>
-        <option value="cheese">Cheese</option>
-        <option value="egg">Egg</option>
-        <option value="Yoghurt">Yoghurt</option>
-      </select>
+<Breakfast />
       
     </div>
   );
