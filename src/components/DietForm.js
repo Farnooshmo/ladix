@@ -5,7 +5,7 @@ import Snack from "./Snack";
 
 function DietForm() {
   return (
-    <div>
+    <div className="select_input_fields">
       <Breakfast />
       <Lunch />
       <Dinner />
