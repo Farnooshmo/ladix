@@ -3,3 +3,7 @@
   color: #f0ece2;
   height: 50%;
 }
+.select_input_fields {
+  display: flex;
+  justify-content: space-between;
+}
