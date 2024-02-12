@@ -8,7 +8,7 @@ function Breakfast() {
         </option>
         <option value="cheese">Cheese</option>
         <option value="egg">Egg</option>
-        <option value="Yoghurt">Yoghurt</option>
+        <option value="yoghurt">Yoghurt</option>
       </select>
     </div>
   );

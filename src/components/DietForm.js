@@ -1,10 +1,11 @@
 import Breakfast from "./Breakfast";
+import Lunch from "./Lunch";
 
 function DietForm() {
   return (
     <div>
-<Breakfast />
-      
+      <Breakfast />
+      <Lunch />
     </div>
   );
 }
