@@ -7,7 +7,15 @@
   display: flex;
   justify-content: space-between;
 }
-/* //footer */
+/* middle */
+.middle {
+  position: fixed;
+  top: 40px;
+  width: 100%;
+  background-color: #ffaaa5;
+  color: #73b1c1;
+}
+/* footer */
 .footer {
   position: fixed;
   bottom: 0;
